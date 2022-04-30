@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;  
+}
+
+.header {
+  background-color: #b7b5b5;
+  /* text-align: center; */
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  color: #FFF;
+}
+
+.projectTitle {
+  margin-right: auto;
+  padding: 20px;
+}
+
+.subTitle {
+  padding: 30px;
+}

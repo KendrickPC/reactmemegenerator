@@ -1,8 +1,9 @@
 import React from "react";
-
+import "./style.css";
+import Nav from "./components/Nav";
 
 export default function App() {
   return (
-    <h1>Testing</h1>
+    <Nav />
   )
 }
