@@ -18,7 +18,8 @@ export default function Form() {
       </div>
     </div>
     <div className="buttonContainer">
-      <button className="memeButton"><h1>Get a new meme image</h1></button>
+      <button className="memeButton"><h1>Get a new meme image</h1><img className="picsIcon" src="./images/pictures.png" alt="svg"/></button>
+      
     </div>
 
 
