@@ -9,7 +9,7 @@ export default function App() {
     <div>
       <Nav />
       <Form />
-      <Hero />
+      
     </div>
   )
 }
