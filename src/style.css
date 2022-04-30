@@ -23,3 +23,9 @@ body {
 .subTitle {
   padding: 30px;
 }
+
+.troll {
+  width: 80px;
+  height: 80px;
+  margin-top: 15px;
+}
